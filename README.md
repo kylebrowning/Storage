@@ -1,7 +1,3 @@
-This is a hard fork of https://github.com/saoudrizwan/Disk since it was no longer maintained. 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/7799382/29153673-a8eef618-7d43-11e7-850a-29897254f3d4.png" alt="Disk" />
-</p>
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/7799382/28644637-2fe6f818-720f-11e7-89a4-35250b6665ce.png" alt="Platform: iOS 9.0+" />
@@ -22,6 +18,8 @@ This is a hard fork of https://github.com/saoudrizwan/Disk since it was no longe
   • <a href="#questions">Questions?</a>
 </p>
 
+<strong>This is a hard fork of https://github.com/saoudrizwan/Disk since it was no longer maintained. </strong>
+    
 Disk is a **powerful** and **simple** file management library built with Apple's [iOS Data Storage Guidelines](https://developer.apple.com/icloud/documentation/data-storage/index.html) in mind. Disk uses the new `Codable` protocol introduced in Swift 4 to its utmost advantage and gives you the power to persist structs without ever having to worry about encoding/decoding. Disk also helps you save images and other data types to disk with as little as one line of code.
 
 ## Compatibility
