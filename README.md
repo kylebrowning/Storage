@@ -469,4 +469,4 @@ Please feel free to create issues for feature requests or send pull requests of 
 
 ## Questions?
 
-Contact me by email <a href="mailto:hello@saoudmr.com">hello@saoudmr.com</a>, or by twitter <a href="https://twitter.com/sdrzn" target="_blank">@sdrzn</a>. Please create an <a href="https://github.com/saoudrizwan/Disk/issues">issue</a> if you come across a bug or would like a feature to be added.
+Use the discussions feature on github.
