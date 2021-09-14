@@ -1,3 +1,4 @@
+This is a hard fork since of https://github.com/saoudrizwan/Disk it was no longer maintained. 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/7799382/29153673-a8eef618-7d43-11e7-850a-29897254f3d4.png" alt="Disk" />
 </p>
