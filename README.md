@@ -28,31 +28,9 @@ Disk requires **iOS 9+** and is compatible with projects using **Swift 4.0** and
 
 ## Installation
 
-* <a href="https://guides.cocoapods.org/using/using-cocoapods.html" target="_blank">CocoaPods</a>:
-
-Disk supports [CocoaPods 1.7.0's new multi-Swift feature](http://blog.cocoapods.org/CocoaPods-1.7.0-beta/) for Swift 4.0, 4.2, and 5.0. Simply specify `supports_swift_versions` in your Podfile.
-
-```ruby
-platform :ios, '9.0'
-target 'ProjectName' do
-use_frameworks!
-supports_swift_versions '< 5.0' # configure this for your project
-
-    pod 'Disk', '~> 0.6.3'
-
-end
-```
-*(if you run into problems, `pod repo update` and try again)*
-
-* <a href="https://github.com/Carthage/Carthage" target="_blank">Carthage</a>:
-
- ```ruby
- github "saoudrizwan/Disk"
- ```
-
 * <a href="https://github.com/apple/swift-package-manager" target="_blank">Swift Package Manager</a>:
 
-```
+```swift
 dependencies: [
     .Package(url: "https://github.com/saoudrizwan/Disk.git", "0.6.3")
 ]
